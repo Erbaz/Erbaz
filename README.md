@@ -2,7 +2,7 @@
 
 <h2 style="color:gold"> 🚀 What I Do </h2>
 
-🏗️ **Lead** — led teams to deliver with a product engineering mindset. \
+🏗️ **Lead** — led teams towards delivery with a product engineering mindset. \
 🤖 **AI-Driven Engineering** — I don't vibe-code. Rather I delve deep into technical design specs for each product feature, using coding agents to scale and speed up the development lifecycle, and improving on agent skills while maximizing context gathering efficiency. \
 🌍 **Travel** — love hiking, treking, and discovering historical landmarks. \
 📚 **Read and Philosophize** — fascinated by philosophy, logic, history, and high-fantasy novels.
@@ -13,6 +13,14 @@
 
 [![Google Cloud Professional ML Engineer](https://img.shields.io/badge/Google%20Cloud-Professional%20ML%20Engineer-blue?style=for-the-badge&logo=googlecloud)](https://www.credly.com/badges/38be0abb-ff2b-4efb-8262-82fad0a0e5d2)
 [![Datacamp Associate SQL Analyst](https://img.shields.io/badge/Datacamp-Associate%20SQL%20Analyst-009BDA?style=for-the-badge&logo=datacamp)](https://www.datacamp.com/completed/statement-of-accomplishment/track/1bae3fe0f0f5839af6a8d91ec5b36e564758e38f)
+
+---
+
+<h2>💻 Tech-Stack</h2>
+
+<p align="center">
+  <img style="max-height:260px" src="assets/logo-tray.png" alt="tech-stack"/>
+</p>
 
 ---
 
