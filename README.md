@@ -19,7 +19,7 @@
 <h2>💻 Tech-Stack</h2>
 
 <p align="center">
-  <img src="assets/logo-tray.png" alt="tech-stack"/>
+  <img src="assets/logo-tray-2.png" alt="tech-stack"/>
 </p>
 
 ---
