@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Banner"/>
+<img align="center" src="assets/banner.svg" alt="Banner"/>
 
 <h2 style="color:gold"> 🚀 What I Do </h2>
 
