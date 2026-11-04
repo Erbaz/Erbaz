@@ -14,7 +14,7 @@
 <h2 style="color:gold">🏅 Certifications </h2>
 
 [![Google Cloud Professional ML Engineer](https://img.shields.io/badge/Google%20Cloud-Professional%20ML%20Engineer-blue?style=for-the-badge&logo=googlecloud)](https://www.credly.com/badges/38be0abb-ff2b-4efb-8262-82fad0a0e5d2)
-[![Datacamp Associate SQL Analyst](https://img.shields.io/badge/Datacamp-Associate%20SQL%20Analyst-009BDA?style=for-the-badge&logo=datacamp)](https://www.datacamp.com/completed/statement-of-accomplishment/track/1bae3fe0f0f5839af6a8d91ec5b36e564758e38f)
+[![Datacamp Associate SQL Analyst](https://img.shields.io/badge/Datacamp-Associate%20SQL%20Analyst-009BDA?style=for-the-badge&logo=datacamp)](https://www.datacamp.com/completed/statement-of-accomplishment/track/7b3e420817681e7a5d39b648545478fd441abe4f?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 
 ---
 
